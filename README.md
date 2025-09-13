@@ -1,2 +1,2 @@
-# Lavida-Soap-Company
-Lavida Soap Company is a soap-based web application that manages inventory and orders for natural soaps that nourish your skin .
+# Lavida-Soap-Company Web Application
+A Flask based web application for LaVida Soap Company,showcasing their natural and handmade soap products 
